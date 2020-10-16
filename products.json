@@ -1,0 +1,75 @@
+
+   [
+    {
+      "id": 1, 
+      "title": "Lemon Pie",
+      "price": 155,
+        "image": "./images/lemonpie.jpg"
+     
+    },
+
+    {
+      "id": 2, 
+      "title": "Brownies",
+      "price": 65,
+        "image": "./images/brownies.jpg"
+     
+    },
+
+    {
+      "id": 3, 
+      "title": "Cheesecake",
+      "price": 135,
+        "image": "./images/cheesecake.jpg"
+     
+    },
+
+    {
+      "id": 4, 
+      "title": "Torta de frutilla",
+      "price": 200,
+        "image": "./images/frutilla.jpg"
+     
+    },
+
+    {
+      "id": 5, 
+      "title": "Carrot cake",
+      "price": 120,
+      "image": "./images/Carrot.jpg"
+     
+    },
+
+    {
+      "id": 6, 
+      "title": "Tiramisu",
+      "price": 175,
+       "image": "./images/tiramisu.jpg"
+     
+    },
+
+    {
+      "id": 7, 
+      "title": "Cupcake",
+      "price": 90,
+      "image": "./images/cupcake.jpg"
+     
+    },
+
+    {
+      "id": 8, 
+      "title": "Alfajor de maicena",
+      "price": 75,
+      "image": "./images/alfajor.jpg"
+     
+    },
+
+    {
+      "id": 9, 
+      "title": "Barras de granola",
+      "price": 55,
+      "image": "./images/granola.jpg"
+     
+    }
+  ]
+
